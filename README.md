@@ -1,5 +1,5 @@
-Slope and snake algorithms
-==========================
+Slope and snake algorithms for tracing layers in radio-echograms
+----------------------------------------------------------------
 
 This repository contains the code used for my Annals of Glaciology article "Automated mapping of local layer slope and tracing of internal layers in radio echograms".
 
@@ -12,7 +12,7 @@ The code is written in Python 2.x and the following libraries are needed (see al
 * scipy
 * matplotlib
 
-Licence: GPL v. 3, see COPYING
+Licence: GPL v.3, see COPYING
 
 I will try to maintain the repository https://github.com/christianpanton/slopesnake as well.
 Please let me know of any bugs you find.
